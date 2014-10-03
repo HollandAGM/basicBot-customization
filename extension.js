@@ -95,7 +95,7 @@
         intervalMessages: ["Please consider reading our rules: http://bit.ly/AGMrules", "Do you like to hangout in this room and want to help us? Apply to become a moderator here: http://bit.ly/ModeratorApplication", "If you lost your place in the waitlist type !dc. It's not guaranteed to work though sadly."],
         messageInterval: 6,
         songstats: false,
-        commandLiteral: "/",
+        commandLiteral: "!",
         blacklists: {
             NSFW: "https://rawgit.com/Yemasthui/basicBot-customization/master/blacklists/ExampleNSFWlist.json",
             OP: "https://rawgit.com/Yemasthui/basicBot-customization/master/blacklists/ExampleOPlist.json"
