@@ -81,7 +81,7 @@
         afkRankCheck: "user",
         motdEnabled: false,
         motdInterval: 5,
-        motd: "Temporary Message of the Day",
+        motd: null,
         filterChat: true,
         etaRestriction: true,
         welcome: false,
