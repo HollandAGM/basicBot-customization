@@ -56,6 +56,9 @@
         botName: "B0ssBOT",
         language: "english",
         chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
+        startupCap: 1, // 1-200
+        startupVolume: 0, // 0-100
+        startupEmoji: true, // true or false
         maximumAfk: 120,
         afkRemoval: false,
         maximumDc: 120,
