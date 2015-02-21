@@ -61,7 +61,7 @@
         startupEmoji: true, // true or false
         maximumAfk: 120,
         afkRemoval: false,
-        maximumDc: 120,
+        maximumDc: 60,
         bouncerPlus: false,
         lockdownEnabled: false,
         lockGuard: false,
