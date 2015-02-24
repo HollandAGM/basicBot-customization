@@ -40,7 +40,7 @@
                 if (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
                 if (!bot.commands.executable(this.rank, chat)) return void (0);
                 else {
-                    API.sendChat("/me @everyone http://i.imgur.com/rlExvFo.gif");
+                    API.sendChat("/me @staff http://i.imgur.com/F2lXeRq.gif");
                 }
             }
         };
