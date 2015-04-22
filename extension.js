@@ -97,7 +97,7 @@
         fbLink: null,
         youtubeLink: null,
         website: null,
-        intervalMessages: ["Please consider reading our rules: http://bit.ly/AGMrules", "If you lost your place in the waitlist type !dc. It's not guaranteed to work though sadly", "If you are new to plug.dj these links might help http://bit.ly/1gzzokK / http://plugcubed.net/ / http://www.emoji-cheat-sheet.com/ / http://maxkunowski.com/plug/", "Please speak English in this room", "Are you enjoying your time in Anime | Games | Music? Help us grow by bringing a friend with you to this room!", "Do you have any suggestions or complaints? http://bit.ly/SuggestionsOrComplaints"],
+        intervalMessages: ["[Automatic message] Please consider reading our rules: http://bit.ly/AGMrules", "[Automatic message] If you lost your place in the waitlist type !dc", "[Automatic message] If you are new to plug.dj these links might help http://bit.ly/1gzzokK / http://plugcubed.net/ / http://www.emoji-cheat-sheet.com/ / http://maxkunowski.com/plug/", "[Automatic message] As a reminder, this is an English only chat, thank you for your understanding", "[Automatic message] Are you enjoying your time in Anime | Games | Music? Help us grow by bringing a friend with you to this room!", "[Automatic message] Do you have any suggestions or complaints? http://bit.ly/SuggestionsOrComplaints"],
         messageInterval: 7,
         songstats: false,
         commandLiteral: "!",
