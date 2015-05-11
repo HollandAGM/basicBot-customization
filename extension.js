@@ -81,7 +81,7 @@
             ["history", "This song is already played, see history. "],
             ["sound", "The song you played had no sound. "],
             ["nsfw", "The song you played contained NSFW visuals. "],
-            ["length", "The song you played exceeds the maximum video length. "],
+            ["length", "The song you played exceeds the maximum video length, which is 7 minutes. "],
             ["unavailable", "The song you played was not available for some users. "]
         ],
         afkpositionCheck: 50,
