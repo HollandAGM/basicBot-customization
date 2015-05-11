@@ -76,11 +76,12 @@
         autodisable: false,
         commandCooldown: 5,
         usercommandsEnabled: true,
-        lockskipPosition: 10,
+        lockskipPosition: 1,
         lockskipReasons: [
             ["history", "This song is already played, see history. "],
             ["sound", "The song you played had no sound. "],
             ["nsfw", "The song you played contained NSFW visuals. "],
+            ["length", "The song you played exceeds the maximum video length. "],
             ["unavailable", "The song you played was not available for some users. "]
         ],
         afkpositionCheck: 50,
